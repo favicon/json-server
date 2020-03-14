@@ -1,0 +1,58 @@
+{
+	"blogs": [
+		{
+			"id": 1,
+			"first_name": "Sebastian",
+			"last_name": "Eschweiler",
+			"email": "sebastian@codingthesmartway.com",
+			"title": "Hello Word!",
+			"published_at": "2012-12-07T11:24:00-08:00",
+			"description": "<p>Psychopathy is more common than you would expect</p>",
+			"tags": [
+				"keyword1",
+				"keyword4"
+			]
+		},
+		{
+			"id": 2,
+			"first_name": "Steve",
+			"last_name": "Palmer",
+			"email": "steve@codingthesmartway.com",
+			"title": "Hello Word 2!",
+			"published_at": "2012-12-08T11:24:00-08:00",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
+			"tags": [
+				"keyword1",
+				"keyword2",
+				"keyword4"
+			]
+		},
+		{
+			"id": 3,
+			"first_name": "Ann",
+			"last_name": "Smith",
+			"title": "Hello Word 3!",
+			"email": "ann@codingthesmartway.com",
+			"published_at": "2012-12-09T11:24:00-08:00",
+			"description": "Paste the body of your content in here in plaintext",
+			"tags": [
+				"keyword4"
+			]
+		},
+		{
+			"id": 4,
+			"first_name": "Tommy",
+			"last_name": "Smith",
+			"title": "Hello Word 4!",
+			"email": "Tommy@codingthesmartway.com",
+			"published_at": "2012-12-10T11:24:00-08:00",
+			"description": "Paste the body of your content in here in plaintext",
+			"tags": [
+				"keyword1",
+				"keyword2",
+				"keyword3",
+				"keyword4"
+			]
+		}
+	]
+}
